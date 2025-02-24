@@ -1,6 +1,12 @@
-# Egg Catcher Game
+# Space Shooter Game
 
-A simple game where players catch falling eggs using a basket. Built with Python and Pygame.
+A simple space shooter game where you control a spaceship and shoot down incoming enemies. Built using Python and Pygame.
+
+## How to Play
+
+- Use **Left Arrow** and **Right Arrow** to move.
+- Press **Spacebar** to shoot bullets.
+- Destroy enemies to increase your score.
 
 ## How to Run
 
@@ -11,12 +17,7 @@ A simple game where players catch falling eggs using a basket. Built with Python
    ```
 3. Run the game:
    ```
-   python egg_catcher.py
+   python space_shooter.py
    ```
 
-## Controls
-
-- **Left Arrow**: Move basket left
-- **Right Arrow**: Move basket right
-
-Enjoy the game!
+## Enjoy the game!
